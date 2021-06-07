@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không, chả thích :3',
     question:'Thế giới vốn lạ thường mà sao em cứ đi nhầm đường <3',
     btnReply: 'Gửi cho mình <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Tớ biết cậu sẽ chọn có mà <33333333',
     mess: 'Tớ biết mà 😘😘',
     messDesc: 'Tối nay 7h tớ qua đón nhé <3.',
     btnAccept: 'Okiiiii lun <3',

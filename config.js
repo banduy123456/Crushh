@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Mình là Duy nè`,
     btnIntro: 'Ấn vô đây típ nha ^^',
     title: 'Cậu là người đầu tiên có link này đó 😙',
-    desc: 'Có thích mình hum :< ',
+    desc: 'Có thích mình khum :< ',
     btnYes: 'Vẫn cứ là thích <3',
     btnNo: 'Không, chả thích :3',
     question:'Tớ biết kiểu gì cậu cũng chọn có mà <3',
